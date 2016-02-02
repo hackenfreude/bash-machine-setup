@@ -4,4 +4,5 @@
 - [ ] vim plugins
 - [ ] docker script
 - [ ] sub-repos for standalone scripts and rc files
+- [ ] figure out pipefail for one-liners
 
